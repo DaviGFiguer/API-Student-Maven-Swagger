@@ -21,12 +21,12 @@ Url Swagger: http://localhost:8081/swagger-ui.html
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/MongoSpring.git
+   git clone https://github.com/seuusuario/API-Student-Maven-Swagger.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd MongoSpring
+   cd Projeto
    ```
 
 3. Configure o `application.properties` com suas credenciais do MongoDB.
